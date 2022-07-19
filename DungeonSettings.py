@@ -31,7 +31,7 @@ Q4 = json.dumps(Quiz[3])
 
 # dungeon layout
 dungeon = npy.array(
-    [Q1, 1, Q2, 1, Q3, 1, 1, Q4, 2,]
+    [Q1, "empty", Q2, "empty", Q3, "empty", "empty", Q4, "Exit", ]
  )
 # dungeon = npy.array(
 #     [[Q1, 1, 1, 0, 0, 1, 0, 0, 0,],
