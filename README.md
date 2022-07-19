@@ -12,7 +12,7 @@
   </a>
 </p>
 
-> This is a python practice project &#34;one-dimension quiz dungeon&#34.;
+> This is a python practice project &#34;one-dimension quiz dungeon&#34;.
 
 ### 🏠 [Homepage](https://github.com/behold0815/Py_Quiz_Dungeon/blob/master/README.md)
 
