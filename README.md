@@ -12,11 +12,11 @@
   </a>
 </p>
 
-> this is a python practice project &#34;one-dimension quiz dungeon&#34;
+> This is a python practice project &#34;one-dimension quiz dungeon&#34.;
 
 ### 🏠 [Homepage](https://github.com/behold0815/Py_Quiz_Dungeon/blob/master/README.md)
 
-### ✨ [Demo](https://github.com/behold0815/Py_Quiz_Dungeon/blob/master/README.md)
+### ✨ [Demo]
 
 ## Prerequisites
 
@@ -41,7 +41,7 @@ Give a ⭐️ if this project helped you!
 ## 📝 License
 
 Copyright © 2022 [Eric Li](https://github.com/behold0815).<br />
-This project is [MIT]
+This project is [MIT](MIT).<br />
 
 ***
 _This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
